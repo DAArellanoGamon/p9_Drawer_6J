@@ -19,9 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 # Mi diseño Drawer y sus caracteristicas
-![image](![image](https://github.com/DAArellanoGamon/p9_Drawer_6J/assets/143548308/a9d50dca-21f0-4bed-b164-d607fd3ab11a)
+![image](https://github.com/DAArellanoGamon/p9_Drawer_6J/assets/143548308/a9d50dca-21f0-4bed-b164-d607fd3ab11a)
 
-![image](![image](![image](https://github.com/DAArellanoGamon/p9_Drawer_6J/assets/143548308/a9679e6f-ef31-43f2-a5e1-e720f92a3616)
+![image](https://github.com/DAArellanoGamon/p9_Drawer_6J/assets/143548308/a9679e6f-ef31-43f2-a5e1-e720f92a3616)
 
 
 
